@@ -3,8 +3,16 @@
 </h4> Analista de Dados com experiência em SQL, SQL Server, Banco de Dados Relacionais, ETL e Power BI. Habilidades técnicas e conhecimento profundo dessas ferramentas para extrair insights valiosos e transformar dados brutos em informações acionáveis. </h4>
 
 
+<BR>
+
+<div align="center">
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=israelalvees)
+
+</div>
+
+<br>
+
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/israel-alves-12bb96211/) 
 
