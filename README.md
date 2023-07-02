@@ -6,7 +6,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
+![YOUR github stats](https://github.com/israelalvees/israelalvees/edit/main/README.md)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/israel-alves-12bb96211/) 
 
