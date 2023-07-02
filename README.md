@@ -1,5 +1,6 @@
-<h1 align="center"> "https://github-readme-stats.vercel.app/api?username=israelalves"
- </h1>
+<p align="center">
+<img src="[https://img.shields.io/badge/SKILLS-FF7F00?style=flat&logoColor=white](https://github-readme-stats.vercel.app/api?username=israelalves)"/>
+</p>
 
 </h4> Analista de Dados com experiência em SQL, SQL Server, Banco de Dados Relacionais, ETL e Power BI. Habilidades técnicas e conhecimento profundo dessas ferramentas para extrair insights valiosos e transformar dados brutos em informações acionáveis. </h4>
 
