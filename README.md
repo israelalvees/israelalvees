@@ -1,9 +1,8 @@
 <h1 align="center"> Olá </h1>
 
 </h4> Analista de Dados com experiência em SQL, SQL Server, Banco de Dados Relacionais, ETL e Power BI. Habilidades técnicas e conhecimento profundo dessas ferramentas para extrair insights valiosos e transformar dados brutos em informações acionáveis. </h4>
-
-
 <BR>
+
 
 <div align="center">
 
