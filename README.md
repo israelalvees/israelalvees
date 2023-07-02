@@ -4,7 +4,7 @@
 <BR>
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/israelalvees/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/israelalvees)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/israel-alves-12bb96211/) 
 
