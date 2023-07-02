@@ -11,8 +11,11 @@
 <br>
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=israelalvees&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=israelalvees&theme=dark&show_icons=true" alt="GitHub Stats" />
+  </a>
+</div>
 <br>
 
 <p align="center">
