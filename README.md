@@ -33,7 +33,7 @@
 
 
 <p align="center">
-<img src="https://img.shields.io/badge/SKILLS-000000?style=flat&logoColor=white&logoWidth=40"/>
+<img src="https://img.shields.io/badge/SKILLS-000000?style=flat&color=white"/>
 </p>
 
 
