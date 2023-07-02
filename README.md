@@ -12,6 +12,8 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=israelalvees&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/israel-alves-12bb96211/">
