@@ -1,8 +1,6 @@
 <h1 align="center"> Olá </h1>
-Analista de Dados com experiência em SQL, SQL Server, Banco de Dados Relacionais, ETL e Power BI. Habilidades técnicas e conhecimento profundo dessas ferramentas para extrair insights valiosos e transformar dados brutos em informações acionáveis.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+
+<h1 align="center"> - Analista de Dados com experiência em SQL, SQL Server, Banco de Dados Relacionais, ETL e Power BI. Habilidades técnicas e conhecimento profundo dessas ferramentas para extrair insights valiosos e transformar dados brutos em informações acionáveis. </h1>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=israelalvees)
 
