@@ -15,6 +15,10 @@
 
 <br>
 
+<p align="center">
+<img src="https://img.shields.io/badge/CONTATO-000000?style=flat&color=white"/>
+</p>
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/israel-alves-12bb96211/">
