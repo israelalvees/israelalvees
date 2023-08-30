@@ -10,14 +10,6 @@
 <h4>Analista de Dados com experiência em SQL, SQL Server, PostgreSQL, Banco de Dados Relacionais, ETL, Pentaho e Data Vis. Habilidades técnicas e conhecimento profundo dessas ferramentas para extrair insights valiosos e transformar dados brutos em informações acionáveis.</h4>
 <br>
 
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=israelalvees&theme=dark&show_icons=true" alt="GitHub Stats" />
-  </a>
-</div>
-<br>
-
 <p align="center">
 <img src="https://img.shields.io/badge/CONTATO-000000?style=flat&color=white"/>
 </p>
